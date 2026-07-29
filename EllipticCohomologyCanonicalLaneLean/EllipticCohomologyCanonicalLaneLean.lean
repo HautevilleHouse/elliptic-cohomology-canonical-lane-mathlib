@@ -1,0 +1,18 @@
+import EllipticCohomologyCanonicalLaneLean.AdmissibleClass
+import EllipticCohomologyCanonicalLaneLean.BridgeLemmas
+import EllipticCohomologyCanonicalLaneLean.GateLemmas
+import EllipticCohomologyCanonicalLaneLean.FinalTheorem
+import EllipticCohomologyCanonicalLaneLean.EllipticSpectrumLayer
+import EllipticCohomologyCanonicalLaneLean.EllipticCohomologyCertificate
+import EllipticCohomologyCanonicalLaneLean.EllipticOrientationLayer
+
+namespace HautevilleHouse
+namespace EllipticCohomologyCanonicalLaneLean
+
+-- Root module placeholder
+
+def sourceRepository : String := "elliptic-cohomology-canonical-lane"
+def sourceDescription : String := "Elliptic Cohomology Canonical Lane"
+
+end EllipticCohomologyCanonicalLaneLean
+end HautevilleHouse
